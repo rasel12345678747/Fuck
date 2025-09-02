@@ -11,7 +11,7 @@ module.exports = {
     guide: "{pn}"
   },
    onStart: async function ({ message }) {
-   var BAYJID= ["https://i.imgur.com/FbnZI40.mp4",
+   var রাসেল= ["https://i.imgur.com/FbnZI40.mp4",
 "https://i.imgur.com/E9gbTEZ.mp4",
 "https://i.imgur.com/17nXn9K.mp4",
 "https://i.imgur.com/nj23cCe.mp4",
