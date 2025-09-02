@@ -24,7 +24,7 @@ module.exports = {
 
 		if (!this.threadStates[threadID]) {
 			this.threadStates[threadID] = {
-				autoInstaEnabled: false,
+				autoInstaEnabled: true,
 			};
 		}
 
