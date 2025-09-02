@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "ahmedzayan102@gmail.com",
+    "email": "raselislam2454788@gmail.com",
     "password": "910@1t340",
     "2FASecret": "hxhjdjj",
     "i_user": "",
@@ -13,22 +13,22 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "🎀 ˖ ࣪ʬʬ˒ 🛼 𝖲𝗁𝗂𝗌𝖾𝗂 𓂃🎀 ˖",
-  "prefix": "/",
+  "nickNameBot": "🎀 ˖ ࣪ʬʬ˒ 🛼 Rasel 𓂃🎀 ˖",
+  "prefix": ".",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61576212342334",
-    "61577716215531",
-    "61577983130441",
-    "61578298467556"
+    "61577216652947",
+    "",
+    "",
+    ""
   ],
   "whiteListMode": {
-    "enable": false,
-    "whiteListIds": ["61574046213712",
-"",
+    "enable": true,
+    "whiteListIds": ["61577216652947",
+"61577216652947",
       ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
@@ -66,7 +66,7 @@
     "port": 9999
   },
   "serverUptime": {
-    "enable": false,
+    "enable": true,
     "port": 3001,
     "socket": {
       "enable": true,
@@ -79,7 +79,7 @@
     "notes": "you can set time is interval with milisecond or cron time, example: 1000, 10000, 60000, 3600000, 86400000, 0 0 * * *,... docs: https://www.npmjs.com/package/node-cron. If you set time is 0 or false or null, the bot will not auto restart"
   },
   "autoUptime": {
-    "enable": false,
+    "enable": true,
     "timeInterval": 180,
     "url": "",
     "notes": "the value of timeInterval is seconds, url is the url you want to send the request to (automatically detected for hosting glitch or replit)"
